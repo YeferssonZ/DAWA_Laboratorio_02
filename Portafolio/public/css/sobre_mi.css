@@ -1,0 +1,49 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.center-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.profile-image {
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+.name {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #007BFF;
+}
+
+.bio {
+    font-size: 18px;
+    margin-top: 20px;
+    line-height: 1.5;
+}
+
+.section {
+    margin-top: 20px;
+    border: 1px solid #007BFF;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.section-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #007BFF;
+}
+
+.back-button {
+    margin-top: 20px;
+}

@@ -1,0 +1,28 @@
+    body {
+      background-color: #f0f0f0;
+    }
+    .confirmation-container {
+      text-align: center;
+      margin-top: 100px;
+    }
+    .confirmation-title {
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+    .confirmation-text {
+      font-size: 20px;
+      margin-bottom: 30px;
+    }
+    .btn-custom {
+      background-color: #007BFF;
+      color: #fff;
+      font-size: 18px;
+      padding: 10px 30px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    .btn-custom:hover {
+      background-color: #0056b3;
+    }
